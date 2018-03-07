@@ -1,0 +1,29 @@
+
+
+.heading1 {
+    font-family: 'Montserrat', sans-serif;
+    color: $color-white;
+    font-size: 10rem;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+
+    @include respond(phone) { 
+        font-size: 4rem;
+        padding: 10px;
+    }
+
+}
+
+.heading2 {
+    font-family: 'Montserrat', sans-serif;
+    color: $color-grey-dark-3;
+    font-size: 3.5rem;
+    letter-spacing: .2rem;
+    margin-bottom: 5rem;
+
+    @include respond(phone) { 
+        margin-bottom: 3rem;
+    }
+}
+
+
