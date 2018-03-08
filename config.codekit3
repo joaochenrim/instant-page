@@ -7,7 +7,7 @@
 		"uuidString": "AD8B574A-7921-4CF8-8358-28121CB1DDC8"
 		}
 	],
-"creatorBuild": "26268",
+"creatorBuild": "26148",
 "files": {
 	"\/css\/main.css": {
 		"aP": 1,
@@ -104,91 +104,91 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/envelop.svg": {
+	"\/img\/SVG (1)\/envelop.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/envelop.svg",
+		"oAP": "\/img\/SVG (1)\/envelop.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/facebook.svg": {
+	"\/img\/SVG (1)\/facebook.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/facebook.svg",
+		"oAP": "\/img\/SVG (1)\/facebook.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/github.svg": {
+	"\/img\/SVG (1)\/github.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/github.svg",
+		"oAP": "\/img\/SVG (1)\/github.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/home.svg": {
+	"\/img\/SVG (1)\/home.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/home.svg",
+		"oAP": "\/img\/SVG (1)\/home.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/instagram.svg": {
+	"\/img\/SVG (1)\/instagram.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/instagram.svg",
+		"oAP": "\/img\/SVG (1)\/instagram.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/linkedin2.svg": {
+	"\/img\/SVG (1)\/linkedin2.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/linkedin2.svg",
+		"oAP": "\/img\/SVG (1)\/linkedin2.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/profile.svg": {
+	"\/img\/SVG (1)\/profile.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/profile.svg",
+		"oAP": "\/img\/SVG (1)\/profile.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/tumblr.svg": {
+	"\/img\/SVG (1)\/tumblr.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/tumblr.svg",
+		"oAP": "\/img\/SVG (1)\/tumblr.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/SVG\/twitter.svg": {
+	"\/img\/SVG (1)\/twitter.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/SVG\/twitter.svg",
+		"oAP": "\/img\/SVG (1)\/twitter.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -220,6 +220,24 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/sass\/base\/_base.scss": {
 		"aP": 0,
@@ -358,7 +376,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 537207032,
-	"displayValue": "joaochenrim.github.io",
+	"displayValue": "instant-page",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-confusedBaby"
 	},
@@ -368,7 +386,6 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
-	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -932,10 +949,6 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
-			},
-		"implicit-arrow-linebreak": {
-			"active": 0,
-			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,

@@ -58,7 +58,7 @@
     }
 
     &:hover .about__img {
-      transform: translateX(-4rem) scale(1.2);
+      transform: scale(1.2);
       filter: blur(3px) brightness(80%) grayscale(0.7);
     }
   }
@@ -104,7 +104,7 @@
     height: 100%;
     border-radius: 5%;
     filter: grayscale(0.7);
-    transform: translateX(-4rem) scale(1);
+    transform:  scale(1);
     transition: all 0.5s;
     backface-visibility: hidden;
   }

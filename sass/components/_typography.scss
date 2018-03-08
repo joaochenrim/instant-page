@@ -7,11 +7,18 @@
     text-transform: uppercase;
     letter-spacing: .3rem;
 
+    @include respond(tab-port) { 
+        margin-bottom: 3rem;
+        font-size: 8rem;
+    }
+
+
     @include respond(phone) { 
         font-size: 4rem;
         padding: 10px;
     }
 
+    
 }
 
 .heading2 {
